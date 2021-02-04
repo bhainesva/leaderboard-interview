@@ -1,0 +1,11 @@
+{
+  "name": "leaderboard-interview",
+  "type": "module",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "bhaines <bhaines@yext.com>",
+  "license": "MIT",
+  "dependencies": {
+    "bent": "^7.3.12"
+  }
+}
